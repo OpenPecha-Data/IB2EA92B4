@@ -3,5 +3,177 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG2118
   title: གཏེར་ཆེན་རྡོ་རྗེ་གླིང་པའི་ཟབ་ཆོས་ཕྱོགས་བསྡེབས།
-  volume: ''
+  volume:
+    4597caf7457040b285a6d9a4b0b8b766:
+      image_group_id: I1KG2126
+      title: Volume 1 of gter chos/_rdo rje gling pa
+      volume_number: 1
+      total_pages: 668
+    ae396e1ed7544387933311ab8784eb55:
+      image_group_id: I1KG2127
+      title: Volume 2 of gter chos/_rdo rje gling pa
+      volume_number: 2
+      total_pages: 664
+    5eaaae0a976f4564a0df0cd7d710f55f:
+      image_group_id: I1KG2128
+      title: Volume 3 of gter chos/_rdo rje gling pa
+      volume_number: 3
+      total_pages: 654
+    3d98ec42e962476582be414fd15462b8:
+      image_group_id: I1KG2129
+      title: Volume 4 of gter chos/_rdo rje gling pa
+      volume_number: 4
+      total_pages: 706
+    23c38e48e0aa45b591118395c0dbe1ed:
+      image_group_id: I1KG2130
+      title: Volume 5 of gter chos/_rdo rje gling pa
+      volume_number: 5
+      total_pages: 710
+    95077e12811041b78136c359714e0b47:
+      image_group_id: I1KG2131
+      title: Volume 6 of gter chos/_rdo rje gling pa
+      volume_number: 6
+      total_pages: 626
+    e420a1bc4e5e4c41a7547638bf86f2db:
+      image_group_id: I1KG2132
+      title: Volume 7 of gter chos/_rdo rje gling pa
+      volume_number: 7
+      total_pages: 498
+    4145b91446c043c6b4ec68f7dbfae3d5:
+      image_group_id: I1KG2133
+      title: Volume 8 of gter chos/_rdo rje gling pa
+      volume_number: 8
+      total_pages: 502
+    e872fadf672b42aeb94c5edde508e3ef:
+      image_group_id: I1KG2134
+      title: Volume 9 of gter chos/_rdo rje gling pa
+      volume_number: 9
+      total_pages: 648
+    37c6df6486fe4470b71b547d5d4e100b:
+      image_group_id: I1KG2135
+      title: Volume 10 of gter chos/_rdo rje gling pa
+      volume_number: 10
+      total_pages: 584
+    9542c36192f14ed3a93c2414fa625aec:
+      image_group_id: I1KG13691
+      title: ''
+      volume_number: 11
+      total_pages: 902
+    75c50a1f12f542e8850f1f8106f3ca27:
+      image_group_id: I1KG13692
+      title: ''
+      volume_number: 12
+      total_pages: 1159
+    2f934c8addea4d0ca4da31b79cd1dba9:
+      image_group_id: I1KG13694
+      title: ''
+      volume_number: 13
+      total_pages: 620
+    12a960cee115483a96bd4e1aab4d161a:
+      image_group_id: I1KG13695
+      title: ''
+      volume_number: 14
+      total_pages: 906
+    f344f045d64744be869835afac86fafd:
+      image_group_id: I2KG207374
+      title: ''
+      volume_number: 15
+      total_pages: 804
+    e023cae37cf84d95922ee8f2e81cca2e:
+      image_group_id: I2KG207375
+      title: ''
+      volume_number: 16
+      total_pages: 634
+    558c31fc21804ebe8869cde3edc2108b:
+      image_group_id: I2KG207376
+      title: ''
+      volume_number: 17
+      total_pages: 736
+    b1dc7f3700bf4b1689f3a327f0621634:
+      image_group_id: I2KG207377
+      title: ''
+      volume_number: 18
+      total_pages: 860
+    6d2d8d7d9dcd403f96440010e699a77d:
+      image_group_id: I2KG207378
+      title: ''
+      volume_number: 19
+      total_pages: 856
+    d44a1a59524649ac9072224bd1f63ca8:
+      image_group_id: I2KG207379
+      title: ''
+      volume_number: 20
+      total_pages: 830
+    42f6236272174c378c9f4e445cc51c62:
+      image_group_id: I2KG207380
+      title: ''
+      volume_number: 21
+      total_pages: 830
+    14b89a7d1f8d44e993be7a279dbf507c:
+      image_group_id: I2KG207381
+      title: ''
+      volume_number: 22
+      total_pages: 854
+    6c533d689eaa46d081c68da06b8677f4:
+      image_group_id: I2KG207382
+      title: ''
+      volume_number: 23
+      total_pages: 750
+    75ba405fd80b49eaa88e1152959b60ca:
+      image_group_id: I2KG207383
+      title: ''
+      volume_number: 24
+      total_pages: 660
+    80183df1e65643ac95ef180b0338e55f:
+      image_group_id: I2KG207384
+      title: ''
+      volume_number: 25
+      total_pages: 646
+    cbfde0dcb64445359167a94f84b74151:
+      image_group_id: I2KG207385
+      title: ''
+      volume_number: 26
+      total_pages: 776
+    ce13d4c807774d3ba2b986053e58f9b2:
+      image_group_id: I2KG207386
+      title: ''
+      volume_number: 27
+      total_pages: 538
+    a8e5512b335542ae9f2734e45d57049e:
+      image_group_id: I2KG207387
+      title: ''
+      volume_number: 28
+      total_pages: 714
+    3625a43f56274bafac8c329dbbcc6d09:
+      image_group_id: I2KG207388
+      title: ''
+      volume_number: 29
+      total_pages: 628
+    42c4df0bd9104c879ad4b1b0cd003a76:
+      image_group_id: I2KG207389
+      title: ''
+      volume_number: 30
+      total_pages: 626
+    aff98ce8d2784015ac0744b4e148dc8b:
+      image_group_id: I2KG207390
+      title: ''
+      volume_number: 31
+      total_pages: 572
+    02ce02596a1b43179ab51d315691d6e3:
+      image_group_id: I2KG207391
+      title: ''
+      volume_number: 32
+      total_pages: 648
+    24bab351c3cf4f30ae92895f4bcdabf1:
+      image_group_id: I2KG207392
+      title: ''
+      volume_number: 33
+      total_pages: 632
   author: ''
+ebook_metadata:
+  title: གཏེར་ཆེན་རྡོ་རྗེ་གླིང་པའི་ཟབ་ཆོས་ཕྱོགས་བསྡེབས།
+  author: ''
+  sku: P000525
+  cover: cover.jpg
+  layers:
+  - pagination
