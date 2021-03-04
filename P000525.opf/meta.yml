@@ -1,69 +1,82 @@
-id: opecha:P000525
+id: P000525
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG2118
   title: གཏེར་ཆེན་རྡོ་རྗེ་གླིང་པའི་ཟབ་ཆོས་ཕྱོགས་བསྡེབས།
-  volume:
+  author: ''
+  volumes:
     4597caf7457040b285a6d9a4b0b8b766:
       image_group_id: I1KG2126
       title: Volume 1 of gter chos/_rdo rje gling pa
       volume_number: 1
       total_pages: 668
+      base_file: v003.txt
     ae396e1ed7544387933311ab8784eb55:
       image_group_id: I1KG2127
       title: Volume 2 of gter chos/_rdo rje gling pa
       volume_number: 2
       total_pages: 664
+      base_file: v004.txt
     5eaaae0a976f4564a0df0cd7d710f55f:
       image_group_id: I1KG2128
       title: Volume 3 of gter chos/_rdo rje gling pa
       volume_number: 3
       total_pages: 654
+      base_file: v005.txt
     3d98ec42e962476582be414fd15462b8:
       image_group_id: I1KG2129
       title: Volume 4 of gter chos/_rdo rje gling pa
       volume_number: 4
       total_pages: 706
+      base_file: v006.txt
     23c38e48e0aa45b591118395c0dbe1ed:
       image_group_id: I1KG2130
       title: Volume 5 of gter chos/_rdo rje gling pa
       volume_number: 5
       total_pages: 710
+      base_file: v007.txt
     95077e12811041b78136c359714e0b47:
       image_group_id: I1KG2131
       title: Volume 6 of gter chos/_rdo rje gling pa
       volume_number: 6
       total_pages: 626
+      base_file: v008.txt
     e420a1bc4e5e4c41a7547638bf86f2db:
       image_group_id: I1KG2132
       title: Volume 7 of gter chos/_rdo rje gling pa
       volume_number: 7
       total_pages: 498
+      base_file: v009.txt
     4145b91446c043c6b4ec68f7dbfae3d5:
       image_group_id: I1KG2133
       title: Volume 8 of gter chos/_rdo rje gling pa
       volume_number: 8
       total_pages: 502
+      base_file: v010.txt
     e872fadf672b42aeb94c5edde508e3ef:
       image_group_id: I1KG2134
       title: Volume 9 of gter chos/_rdo rje gling pa
       volume_number: 9
       total_pages: 648
+      base_file: v011.txt
     37c6df6486fe4470b71b547d5d4e100b:
       image_group_id: I1KG2135
       title: Volume 10 of gter chos/_rdo rje gling pa
       volume_number: 10
       total_pages: 584
+      base_file: v012.txt
     9542c36192f14ed3a93c2414fa625aec:
       image_group_id: I1KG13691
       title: ''
       volume_number: 11
       total_pages: 902
+      base_file: v001.txt
     75c50a1f12f542e8850f1f8106f3ca27:
       image_group_id: I1KG13692
       title: ''
       volume_number: 12
       total_pages: 1159
+      base_file: v002.txt
     2f934c8addea4d0ca4da31b79cd1dba9:
       image_group_id: I1KG13694
       title: ''
@@ -169,7 +182,6 @@ source_metadata:
       title: ''
       volume_number: 33
       total_pages: 632
-  author: ''
 ebook_metadata:
   title: གཏེར་ཆེན་རྡོ་རྗེ་གླིང་པའི་ཟབ་ཆོས་ཕྱོགས་བསྡེབས།
   author: ''
