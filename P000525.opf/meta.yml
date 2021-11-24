@@ -1,5 +1,7 @@
 id: P000525
 initial_creation_type: ocr
+created_at: 25/03/2020
+last_modified_at: 24/11/2021
 source_metadata:
   id: bdr:W1KG2118
   title: གཏེར་ཆེན་རྡོ་རྗེ་གླིང་པའི་ཟབ་ཆོས་ཕྱོགས་བསྡེབས།
@@ -182,10 +184,3 @@ source_metadata:
       title: ''
       volume_number: 33
       total_pages: 632
-ebook_metadata:
-  title: གཏེར་ཆེན་རྡོ་རྗེ་གླིང་པའི་ཟབ་ཆོས་ཕྱོགས་བསྡེབས།
-  author: ''
-  sku: P000525
-  cover: cover.jpg
-  layers:
-  - pagination
