@@ -1,0 +1,93 @@
+id: IB2EA92B4
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2020-03-25T04:38:05+00:00'
+last_modified: '2022-06-10T09:07:07.264974+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+source_metadata:
+  id: bdr:W1KG2118
+  title: གཏེར་ཆེན་རྡོ་རྗེ་གླིང་པའི་ཟབ་ཆོས་ཕྱོགས་བསྡེབས།
+  author: ''
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  restrictedInChina: false
+  base:
+    '3439':
+      image_group_id: I1KG2126
+      title: Volume 1 of gter chos/_rdo rje gling pa
+      total_pages: 668
+      order: 1
+      base_file: 3439.txt
+    '7380':
+      image_group_id: I1KG2127
+      title: Volume 2 of gter chos/_rdo rje gling pa
+      total_pages: 664
+      order: 2
+      base_file: 7380.txt
+    CB62:
+      image_group_id: I1KG2128
+      title: Volume 3 of gter chos/_rdo rje gling pa
+      total_pages: 654
+      order: 3
+      base_file: CB62.txt
+    B599:
+      image_group_id: I1KG2129
+      title: Volume 4 of gter chos/_rdo rje gling pa
+      total_pages: 706
+      order: 4
+      base_file: B599.txt
+    1FE4:
+      image_group_id: I1KG2130
+      title: Volume 5 of gter chos/_rdo rje gling pa
+      total_pages: 710
+      order: 5
+      base_file: 1FE4.txt
+    20A4:
+      image_group_id: I1KG2131
+      title: Volume 6 of gter chos/_rdo rje gling pa
+      total_pages: 626
+      order: 6
+      base_file: 20A4.txt
+    8CC6:
+      image_group_id: I1KG2132
+      title: Volume 7 of gter chos/_rdo rje gling pa
+      total_pages: 498
+      order: 7
+      base_file: 8CC6.txt
+    '2203':
+      image_group_id: I1KG2133
+      title: Volume 8 of gter chos/_rdo rje gling pa
+      total_pages: 502
+      order: 8
+      base_file: 2203.txt
+    99EA:
+      image_group_id: I1KG2134
+      title: Volume 9 of gter chos/_rdo rje gling pa
+      total_pages: 648
+      order: 9
+      base_file: 99EA.txt
+    BA08:
+      image_group_id: I1KG2135
+      title: Volume 10 of gter chos/_rdo rje gling pa
+      total_pages: 584
+      order: 10
+      base_file: BA08.txt
+    '8070':
+      image_group_id: I1KG13691
+      title: ''
+      total_pages: 902
+      order: 11
+      base_file: 8070.txt
+    '9847':
+      image_group_id: I1KG13692
+      title: ''
+      total_pages: 1159
+      order: 12
+      base_file: 9847.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
